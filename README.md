@@ -20,4 +20,4 @@
 
 ### How it looks :
 
-![Desktop view](Solar.gif)
+![Desktop view](Unsubscribe Page.gif)
