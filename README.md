@@ -1,4 +1,4 @@
-# Unsubscribe Page
+# Fun Animation for an Unsubscribe Page
 
 ## Features ⚡
 * Fully responsive for mobile devices
