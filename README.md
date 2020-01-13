@@ -18,6 +18,6 @@
 
 ## Demo 🚩
 
-### How it looks :
+### How it looks 
 
-![](Unsubscribe Page.gif)
+![Desktop View](Unsubscribe Page.gif)
