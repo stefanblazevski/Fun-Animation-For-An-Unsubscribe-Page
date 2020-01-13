@@ -20,4 +20,4 @@
 
 ### How it looks :
 
-![Desktop view](Unsubscribe Page.gif)
+![](Unsubscribe Page.gif)
