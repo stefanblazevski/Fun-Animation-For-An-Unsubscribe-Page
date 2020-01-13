@@ -18,6 +18,6 @@
 
 ## Demo 🚩
 
-### How it looks 
+### How it looks :
 
 ![Desktop View](desktopviewpage.gif)
